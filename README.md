@@ -922,7 +922,7 @@ Built with 💙 during the hackathon.
 
 **We said:** Hold our keyboards. 💪
 
----
+----
 
 *Made with ❤️ and an unhealthy amount of `ctrl+z`*
 
